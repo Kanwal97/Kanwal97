@@ -4,14 +4,6 @@
 _Clean APIs, Modern UI_  
 “Bringing Ideas to Life with Scalable, High-Performance Web Applications”
 
----
-
-I help businesses transform concepts into powerful digital solutions using **Laravel**, **React**, and **Next.js**. Whether it’s building robust REST APIs, integrating third-party services, or fine-tuning frontend performance, I deliver reliable, scalable, and optimized web applications that fuel real business growth.
-
----
-
-## ✨ What I Bring to the Table
-
 ### 🧠 Tech Stack Mastery
 - **Frameworks:** Laravel, React.js, Next.js, Angular.js
 - **API Development & Integration:** RESTful APIs, third-party services
