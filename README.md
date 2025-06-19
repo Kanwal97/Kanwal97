@@ -54,6 +54,7 @@ _Feb 2023 – Present_
 - Laravel: E-commerce, fitness, food delivery & more  
 - Angular: Crafted intuitive UIs, seamless REST API integrations  
 - React.js: Built admin dashboards, leveraged Firebase for data management
+- Build Frontend for AI LLM project
 
 **Software Engineer | Code Brew Labs**  
 _Apr 2021 – Jan 2023_  
